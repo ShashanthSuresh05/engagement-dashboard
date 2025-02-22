@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "logins": 5,
+        "feature_usage": 8,
+        "session_duration": 30,
+        "interactions": 12,
+        "last_login_days": 10
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "logins": 1,
+        "feature_usage": 2,
+        "session_duration": 5,
+        "interactions": 1,
+        "last_login_days": 20
+    },
+    {
+        "id": 3,
+        "name": "Darth Maul",
+        "email": "Obi1@example.com",
+        "logins": 5,
+        "feature_usage": 7,
+        "session_duration": 25,
+        "interactions": 9,
+        "last_login_days": 12
+    },
+    {
+        "id": 4,
+        "name": "Ani Skywalker",
+        "email": "Skyguy@example.com",
+        "logins": 5,
+        "feature_usage": 2,
+        "session_duration": 25,
+        "interactions": 3,
+        "last_login_days": 5
+    },
+    {
+        "id": 5,
+        "name": "Balemith",
+        "email": "bale@example.com",
+        "logins": 7,
+        "feature_usage": 6,
+        "session_duration": 35,
+        "interactions": 5,
+        "last_login_days": 2
+    },
+    {
+        "id": 6,
+        "name": "Pom Schmit",
+        "email": "pom@example.com",
+        "logins": 3,
+        "feature_usage": 4,
+        "session_duration": 15,
+        "interactions": 2,
+        "last_login_days": 21
+    }
+]
